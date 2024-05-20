@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.0fead52b.js",
+    "main.js": "/static/js/main.f9b7b07f.js",
     "static/media/BusBackground.svg": "/static/media/BusBackground.b83b3d4c49d73f5a2cec9839bae064a4.svg",
     "static/media/BusRoutes.svg": "/static/media/BusRoutes.02d05dc23f5f831c1720c19420558964.svg",
     "index.html": "/index.html",
-    "main.0fead52b.js.map": "/static/js/main.0fead52b.js.map"
+    "main.f9b7b07f.js.map": "/static/js/main.f9b7b07f.js.map"
   },
   "entrypoints": [
-    "static/js/main.0fead52b.js"
+    "static/js/main.f9b7b07f.js"
   ]
 }
