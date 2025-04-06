@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+#### Hi, there!👋
+
+# Tech Stack
 <div>
-  <h6>Hi, there!👋</h6>
-</div>
-<div>
-  <h3>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/React-51CAEB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-666666?style=flat&logo=Unity&logoColor=white" />
@@ -39,12 +38,3 @@ redirect_from:
 
 # 💻 Internships
 - *2024.03 - 2025.02*, Research Intership, MediaAI Lab., Inha Univ.
-
-<div>
-  	<div>
-   		<img src="https://github-readme-stats.vercel.app/api?username=flashcy"/>
-		<br/>
-   		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890"/>
-   		<img src="https://banner.codetree.ai/v1/banner/cksdud7890"/>
-   	</div>
-</div>
