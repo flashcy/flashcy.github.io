@@ -1,13 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Publications"
-    url: "/#-publications"
+    url: "/"
 
   - title: "Blog"
-    url: "/#-blog"
+    url: "/blog"
 
   - title: "Arts"
-    url: "/#-arts"
+    url: "/arts"

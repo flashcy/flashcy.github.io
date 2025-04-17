@@ -1,11 +1,11 @@
 ---
-permalink: /#publications
-title: "publications"
+permalink: /
+title: "Blog"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /blog/
+  - /blog.html
 ---
 
 <span class='anchor' id='publications'></span>
