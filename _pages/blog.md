@@ -12,3 +12,5 @@ redirect_from:
 
 # 📝 Publications 
 -
+
+<a href='/blog/post001'>post001</a>
