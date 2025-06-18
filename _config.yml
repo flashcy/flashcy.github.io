@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "CY Log"
-title_separator          : "-"
+title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "flashcy"
 description              : "flashCY's devlog website."

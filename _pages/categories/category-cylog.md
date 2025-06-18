@@ -1,5 +1,5 @@
 ---
-title: "cylog"
+title: "CY Log"
 layout: category
 permalink: /flashcy/cylog/
 author_profile: true

@@ -3,7 +3,7 @@ title: "Test Page"
 excerpt: "마크다운 테스트 페이지"
 
 categories:
-  - blog
+  - cylog
 tags:
   - [cylog]
 

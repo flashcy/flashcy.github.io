@@ -17,7 +17,7 @@ categories:
       - title: "Markdown"
         url: /basics/md/
 
-  - title: "flashcy"
+  - title: "About Me"
     children:
-      - title: "cylog"
+      - title: "CY Log"
         url: /flashcy/cylog/
