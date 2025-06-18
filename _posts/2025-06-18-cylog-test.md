@@ -3,9 +3,9 @@ title: "Test Page"
 excerpt: "마크다운 테스트 페이지"
 
 categories:
-  - cylog
+  - CY Log
 tags:
-  - [cylog]
+  - [CY Log]
 
 permalink: /cylog/test/
 
