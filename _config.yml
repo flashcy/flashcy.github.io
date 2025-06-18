@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "flashCY"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Hi, there!**"
+  avatar           : "/assets/images/avatar.png"
+  bio              : #"**Hi, there!**"
   location         : "Incheon, Korea"
   email            : 
   links:
