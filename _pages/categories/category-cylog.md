@@ -1,9 +1,9 @@
 ---
 title: "CY Log"
 layout: category
-permalink: /flashcy/cylog/
+permalink: /aboutme/cylog/
 author_profile: true
-taxonomy: cylog
+taxonomy: CY Log
 sidebar:
   nav: "categories"
 ---
