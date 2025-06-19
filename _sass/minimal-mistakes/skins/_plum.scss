@@ -8,7 +8,7 @@ $text-color: rgb(7, 7, 7) !default;
 $primary-color: #5dadec !default;
 
 $border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color:rgba(240, 240, 240, 0.5);
+$code-background-color:rgba(240, 240, 240, 0.5) !default;
 $code-background-color-dark: rgba(185, 185, 185, 0.25) !default;
 
 $mark-highlight-color: rgba($primary-color, 0.15) !default;
