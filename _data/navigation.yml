@@ -12,12 +12,16 @@ main:
   #   url: /sitemap/
 
 categories:
-  - title: "Basics"
+  - title: "Mathematics"
     children:
-      - title: "Markdown"
-        url: /basics/md/
+      - title: "Probability&Statistics"
+        url: /math/pas/
+      - title: "Linear Algebra"
+        url: /math/lin/
 
   - title: "About Me"
     children:
       - title: "CY Log"
         url: /aboutme/cylog/
+      - title: "Art"
+        url: /aboutme/art/

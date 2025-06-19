@@ -1,9 +1,9 @@
 ---
-title: "Markdown"
+title: "Art"
 layout: category
-permalink: /basics/md/
+permalink: /aboutme/art/
 author_profile: true
-taxonomy: Markdown
+taxonomy: Art
 sidebar:
   nav: "categories"
 ---
