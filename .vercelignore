@@ -1,0 +1,12 @@
+_source/
+build/
+tools/
+__pycache__/
+*.bak
+
+README.md
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

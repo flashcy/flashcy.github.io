@@ -1,32 +1,23 @@
-# Vim
-*~
-*.sw[p_]
+# 배포에 포함하지 않는 원본 / 작업 파일
+_source/
+build/
+tools/
+__pycache__/
+*.bak
 
-# IntelliJ IDEA
-*.idea
+# Next / Node
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
 
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Ruby Gem
-*.gem
-.bundle
-Gemfile.lock
-**/vendor/bundle
-
-# Node.js and NPM
-node_modules
-npm-debug.log*
-package-lock.json
-codekit-config.json
-
-# macOS
+# OS / 에디터
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
 
-# Jekyll generated files
-.jekyll-cache
-.jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
+# Vercel
+.vercel
+.env*.local

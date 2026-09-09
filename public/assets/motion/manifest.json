@@ -1,0 +1,61 @@
+{
+  "generator": "03_npy2json.py",
+  "base": "",
+  "motions": [
+    {
+      "id": "1_a_person_walks_slowly_while_looking_down_at_the_ground",
+      "order": 1,
+      "title": "A person walks slowly while looking down at the ground.",
+      "prompt": "A person walks slowly while looking down at the ground.",
+      "frames": 196,
+      "fps": 20,
+      "glb": "smpl/1_a_person_walks_slowly_while_looking_down_at_the_ground.glb",
+      "joints": "joints/1_a_person_walks_slowly_while_looking_down_at_the_ground.json",
+      "video": null
+    },
+    {
+      "id": "2_a_person_bends_down_and_picks_up_an_object_with_both_hands",
+      "order": 2,
+      "title": "A person bends down and picks up an object with both hands.",
+      "prompt": "A person bends down and picks up an object with both hands.",
+      "frames": 196,
+      "fps": 20,
+      "glb": "smpl/2_a_person_bends_down_and_picks_up_an_object_with_both_hands.glb",
+      "joints": "joints/2_a_person_bends_down_and_picks_up_an_object_with_both_hands.json",
+      "video": null
+    },
+    {
+      "id": "3_a_person_performs_a_jumping_jack_with_both_arms_and_both_legs",
+      "order": 3,
+      "title": "A person performs a jumping jack with both arms and both legs.",
+      "prompt": "A person performs a jumping jack with both arms and both legs.",
+      "frames": 196,
+      "fps": 20,
+      "glb": "smpl/3_a_person_performs_a_jumping_jack_with_both_arms_and_both_legs.glb",
+      "joints": "joints/3_a_person_performs_a_jumping_jack_with_both_arms_and_both_legs.json",
+      "video": null
+    },
+    {
+      "id": "4_a_person_runs_in_place_while_pumping_both_arms_quickly",
+      "order": 4,
+      "title": "A person runs in place while pumping both arms quickly.",
+      "prompt": "A person runs in place while pumping both arms quickly.",
+      "frames": 196,
+      "fps": 20,
+      "glb": "smpl/4_a_person_runs_in_place_while_pumping_both_arms_quickly.glb",
+      "joints": "joints/4_a_person_runs_in_place_while_pumping_both_arms_quickly.json",
+      "video": null
+    },
+    {
+      "id": "5_a_person_throws_a_punch_with_his_right_fist_and_steps_forward_with_his_right_foot",
+      "order": 5,
+      "title": "A person throws a punch with his right fist and steps forward with his right foot.",
+      "prompt": "A person throws a punch with his right fist and steps forward with his right foot.",
+      "frames": 196,
+      "fps": 20,
+      "glb": "smpl/5_a_person_throws_a_punch_with_his_right_fist_and_steps_forward_with_his_right_foot.glb",
+      "joints": "joints/5_a_person_throws_a_punch_with_his_right_fist_and_steps_forward_with_his_right_foot.json",
+      "video": null
+    }
+  ]
+}
